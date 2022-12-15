@@ -1,4 +1,4 @@
 # js-games
  basic games using js
  
- this is a simple memo game
+ this is a simple memo game.
