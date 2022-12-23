@@ -1,5 +1,7 @@
 # js-games
  basic games using js
  
- Games = 
-    memo game
+ Games = [
+    memo game,
+    Rock,paper,seassors
+    ]
