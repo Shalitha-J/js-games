@@ -3,5 +3,5 @@
  
  Games = [
     memo game,
-    Rock,paper,seassors
+    Rock,paper,seassors, wack-a-mole
     ]
