@@ -1,5 +1,5 @@
 # js-games
- basic games using js
+ basic games using js.
  
  Games = [
     memo game,
